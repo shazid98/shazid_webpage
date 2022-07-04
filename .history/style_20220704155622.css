@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(55, 67, 68);
+  }
+  h1 {
+    font: Tahoma;
+    color: rgb(86, 100, 100);
+  }
+  p {
+    color: black;
+  }
