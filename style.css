@@ -1,17 +1,26 @@
-body {
+body{
     background-color: rgb(12, 205, 223);
   }
-  h1 {
+h1{
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-top: 50px;
     font-family: Tahoma;
     color: rgb(152, 180, 180);
-  }
-  p {
-    color: black;
+}
+p {
+  color: black;
   }
 
-  .container {
+
+div {
+    width: 500px; 
+  }
+
+div.container {
     background-color: rgb(255, 255, 255);
-    width: 50%;
-    height: 50%;
-    padding: 20px;
+    margin: 10px;
+    word-wrap: break-word;
+
   }
